@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="suite1">
+    <test name="tst1">
+
+    <classes name="class1">
+        <class name="hashmap">
+
+        </class>
+    </classes>
+    </test>
+
+</suite>
